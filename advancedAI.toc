@@ -1,0 +1,54 @@
+\contentsline {section}{\numberline {1}不确定性推理}{4}
+\contentsline {subsection}{\numberline {1.1}不确定性推理的背景，概念以及结构}{4}
+\contentsline {paragraph}{确定性推理和不确定性推理}{4}
+\contentsline {subparagraph}{确定性（精确）推理}{4}
+\contentsline {subparagraph}{不确定性（非精确）推理}{4}
+\contentsline {subparagraph}{人工智能系统的智能}{4}
+\contentsline {paragraph}{不确定性推理的应用范围}{4}
+\contentsline {subparagraph}{所需知识不完备，不精确}{4}
+\contentsline {subparagraph}{所需知识描述模糊}{4}
+\contentsline {subparagraph}{多种原因导致同一结论}{4}
+\contentsline {subparagraph}{问题的背景知识不足}{5}
+\contentsline {subparagraph}{解决方案不唯一}{5}
+\contentsline {paragraph}{不确定性推理的重点}{5}
+\contentsline {paragraph}{不确定性推理的几个基本问题}{5}
+\contentsline {paragraph}{不确定性的表示}{5}
+\contentsline {subparagraph}{知识不确定性的表示}{5}
+\contentsline {subparagraph}{证据的不确定性表示}{6}
+\contentsline {subparagraph}{不确定性的匹配}{6}
+\contentsline {subparagraph}{不确定性的更新}{6}
+\contentsline {subparagraph}{不确定性结论的合成}{7}
+\contentsline {subparagraph}{不确定性推理的类型}{7}
+\contentsline {subsection}{\numberline {1.2}不确定性推理的概率论基础}{7}
+\contentsline {paragraph}{全概率公式}{7}
+\contentsline {paragraph}{贝叶斯(Bayes)公式}{8}
+\contentsline {subsection}{\numberline {1.3}可信度理论}{8}
+\contentsline {paragraph}{可信度的概念}{8}
+\contentsline {subsection}{\numberline {1.4}CF模型}{9}
+\contentsline {subsubsection}{\numberline {1.4.1}知识不确定性的表示}{9}
+\contentsline {paragraph}{在CF(Certainty-Factor)模型中}{9}
+\contentsline {paragraph}{CF模型——可信度的定义}{9}
+\contentsline {paragraph}{CF模型——可信度的性质}{10}
+\contentsline {subsubsection}{\numberline {1.4.2}证据不确定性的表示}{12}
+\contentsline {subsubsection}{\numberline {1.4.3}证据不确定性的计算}{13}
+\contentsline {paragraph}{否定证据不确定性的计算}{13}
+\contentsline {paragraph}{组合证据不确定性的计算}{13}
+\contentsline {subsubsection}{\numberline {1.4.4}结论不确定性的更新}{13}
+\contentsline {subsubsection}{\numberline {1.4.5}结论可信度的合成}{14}
+\contentsline {subsubsection}{\numberline {1.4.6}CF模型应用实例}{14}
+\contentsline {paragraph}{CF模型在MYCIN系统中的应用}{16}
+\contentsline {subsection}{\numberline {1.5}证据理论}{16}
+\contentsline {subsubsection}{\numberline {1.5.1}概率分配函数}{17}
+\contentsline {subsubsection}{\numberline {1.5.2}DS理论——信任函数}{18}
+\contentsline {subsubsection}{\numberline {1.5.3}DS理论——似真度函数}{19}
+\contentsline {subsubsection}{\numberline {1.5.4}信任函数与似真度函数的关系}{19}
+\contentsline {subsubsection}{\numberline {1.5.5}DS理论的优缺点}{21}
+\contentsline {subsubsection}{\numberline {1.5.6}证据理论的推理模型}{21}
+\contentsline {subsubsection}{\numberline {1.5.7}一个特殊的概率分配函数}{22}
+\contentsline {subsection}{\numberline {1.6}类概率函数}{23}
+\contentsline {subsubsection}{\numberline {1.6.1}类概率函数的性质}{24}
+\contentsline {subsection}{\numberline {1.7}知识不确定性的表示}{24}
+\contentsline {subsection}{\numberline {1.8}证据不确定性的表示}{25}
+\contentsline {subsubsection}{\numberline {1.8.1}组合证据的不确定性表示}{25}
+\contentsline {subsubsection}{\numberline {1.8.2}不确定性的更新}{25}
+\contentsline {subsection}{\numberline {1.9}本章总结}{26}
